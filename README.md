@@ -44,4 +44,4 @@ Proyek ini menganalisis data aktivitas pengguna perangkat Fitbit untuk mengident
 
 **Kontak:**
 * [LinkedIn Anda](https://www.linkedin.com/in/syafiraalhayati)
-* [Email Anda](syafiraah4@gmail.com)
+* [Email Anda](mailto:syafiraah4@gmail.com)
